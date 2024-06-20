@@ -1,5 +1,5 @@
-# Shopify-KeychronK3Pro
-Shopify x Keychron K3 Pro Ansi layout
+# Shopify-Keychron K3 Pro
+Shopify x Keychron K3 Pro ANSI layout JSON with lock key Macro
 
 Originally sourced from: https://github.com/Keychron/qmk_firmware/blob/bluetooth_playground/keyboards/keychron/k3_pro/via_json/k3_pro_ansi_rgb.json
 
