@@ -1,4 +1,4 @@
-# Shopify-KeychronPro3.0
+# Shopify-KeychronK3Pro
 Shopify x Keychron K3 Pro Ansi layout
 
 Originally sourced from: https://github.com/Keychron/qmk_firmware/blob/bluetooth_playground/keyboards/keychron/k3_pro/via_json/k3_pro_ansi_rgb.json
